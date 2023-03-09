@@ -5,7 +5,10 @@
 Demo :- 
 To download Dataset click on -- [Dataset](https://www.kaggle.com/datasets/franciscoescobar/satellite-images-of-water-bodies)
 
-![RESULT](https://user-images.githubusercontent.com/62471058/224153467-8c62eb6c-1096-481b-8c51-13d4e803ab50.png)
+![segmentation](https://user-images.githubusercontent.com/62471058/224168134-0d744fe2-1e4f-4fa5-9fa2-858a7c8535d3.png)
+
+Reference of above image :- [Rich CNN Features for Water-Body Segmentation from Very High Resolution Aerial and Satellite Imagery](https://www.researchgate.net/figure/Water-body-Segmentation-results-of-several-methods-on-the-VHR-satellite-imagery-a_fig4_351582887)
+
 
 **The project methodology involves the following steps:**
 
